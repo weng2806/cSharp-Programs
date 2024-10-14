@@ -25,3 +25,10 @@ while (i <= 5)
     stars--;   // bawas asterisk kasi pababa siya
     i++;
 }
+/*
+*****
+ ****
+  ***
+   **
+    *
+*/
